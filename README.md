@@ -22,15 +22,4 @@ The 3-Phase Corrector and Protector uses a combination of:
 - Voltage sensors (for monitoring phase voltages).
 - Relay or contactor for disconnecting the power.
 
-### **Key Sections to Include:**
 
-1. **Project Description**: Briefly describe what the project is and its purpose.
-2. **Features**: Highlight key features like voltage correction, protection, etc.
-3. **System Overview**: Provide an outline of how the system works.
-4. **Prerequisites**: List hardware or software required to run the project.
-5. **Installation & Setup**: Provide instructions for cloning the repo, setting up hardware, and configuring the system.
-6. **Usage Instructions**: Step-by-step guide to using the system once set up.
-7. **Code Example**: Include snippets to show how the system functions in code.
-8. **Documentation**: Add any additional resources or references.
-9. **Contributing**: Explain how others can contribute to the project.
-10. **License**: Mention the license under which the project is released.
